@@ -8,4 +8,5 @@ llama-index-embeddings-gemini
 streamlit
 python-docx
 pymupdf
+pytesseract
 
